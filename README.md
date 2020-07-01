@@ -1,8 +1,7 @@
 Requests for PHP
 ================
 
-[![Build Status](https://travis-ci.org/rmccue/Requests.svg?branch=master)](https://travis-ci.org/rmccue/Requests)
-[![codecov.io](http://codecov.io/github/rmccue/Requests/coverage.svg?branch=master)](http://codecov.io/github/rmccue/Requests?branch=master)
+** IF THE ORIGINAL PROJECT IS CLOSED, I HAVE THIS :) **
 
 Requests is a HTTP library written in PHP, for human beings. It is roughly
 based on the API from the excellent [Requests Python
